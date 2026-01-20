@@ -1,1 +1,1 @@
-# language_prediction
+# language_detection
